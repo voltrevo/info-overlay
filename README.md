@@ -25,9 +25,10 @@ window.addEventListener('load', function() {
   var infoOverlay = InfoOverlay()
   
   infoOverlay.overlay.innerHTML = (
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec augue ante. Nulla ultrices orci ' +
-    'vehicula molestie facilisis. Aenean auctor a magna elementum auctor. Ut ligula nunc, molestie a viverra ' +
-    'id, commodo at nisi. Vivamus fermentum non nibh nec ullamcorper.'
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec augue ' +
+    'ante. Nulla ultrices orci vehicula molestie facilisis. Aenean auctor a magna ' +
+    'elementum auctor. Ut ligula nunc, molestie a viverra id, commodo at nisi. ' +
+    'Vivamus fermentum non nibh nec ullamcorper.'
   )
 
   document.body.style.backgroundColor = '#0ff'
