@@ -35,6 +35,6 @@
     "info-icon": "0.0.1"
   },
   "devDependencies": {
-    "nakedjs": "0.0.6"
+    "nakedjs": "0.0.7"
   }
 }
